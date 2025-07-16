@@ -17,4 +17,4 @@ jhgjhgjgjhgjg<br>
 
 [練習](exam.txt)
 
-[school技術文件] (doc/index.html).
+[school技術文件](doc/index.html)
