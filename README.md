@@ -20,3 +20,5 @@ jhgjhgjgjhgjg<br>
 [school技術文件](doc/index.html)
 
 ![咖啡](/pic/coffee.jpg)
+
+[demo](https://youtu.be/CLaIwJRqCFs?si=00YzNWN9OwMUMx7K)
